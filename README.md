@@ -1,6 +1,3 @@
-![Toyota logo](<"https://www.freepnglogos.com/pics/toyota-car-logo">)
-
-
 
 # Project | Statistical Analysis
 
